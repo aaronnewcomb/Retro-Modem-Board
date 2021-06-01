@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RetroWIFI-rescue)(type Legacy)(uri ${KIPRJMOD}/RetroWIFI-rescue.lib)(options "")(descr ""))
+)
