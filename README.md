@@ -6,6 +6,9 @@ This is the PCB I built to be used with the Zmodem project
 This boards uses an ESP8266 in the form of an ESP-12E/F module along with some simple parts to act as a modem/wifi bridge. It was initially built to be used with this Zmodem project. https://github.com/bozimmerman/Zimodem
 
 3D printable case available here https://www.thingiverse.com/thing:4876405
+## Video
+[![thumbnail030](https://user-images.githubusercontent.com/8517741/121293415-6d5bfe00-c8a0-11eb-9de0-6309812e059e.png)](https://youtu.be/1vX6TcwniQ4)
+
 
 ## BOM
 
